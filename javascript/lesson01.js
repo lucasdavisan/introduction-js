@@ -1,0 +1,1 @@
+document.write("<p style='color:#f00'>Red Text<br>This is another line of my text.</p>");
